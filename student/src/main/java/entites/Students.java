@@ -25,4 +25,7 @@ public class Students {
 
     @Column(name = "birth_of_date" , nullable = true)
     private String birthOfDate;
+
+    @Column(name = "birth_of_date" , nullable = true)
+    private String birthOfDate;
 }
