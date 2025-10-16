@@ -31,4 +31,6 @@ public class Students {
 //    sjuswhejibeugueyuihsjiuhaiyjuioksnhjskksaij k
 //    sdsadasdasdsad
     System.out.println("Test rollback");
+
+//    bu yadda saxlanildi
 }
